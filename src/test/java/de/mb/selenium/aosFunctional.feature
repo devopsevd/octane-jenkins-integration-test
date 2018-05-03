@@ -1,5 +1,5 @@
 #Auto generated Octane revision tag
-@TID53003REV0.1.0
+@TID53004REV0.2.0
 Feature: Run basic functional test
 	Scenario: Check to see if aos application body is not null
 		Given The selenium setup is complete
